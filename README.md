@@ -41,6 +41,7 @@ The dataset contains:
 ## Dashboard Preview
 
 ![Dashboard Preview](Images/Dashboard_Screenshot.png)
+
 ---
 ## Project Files
 | File Name | Description |
