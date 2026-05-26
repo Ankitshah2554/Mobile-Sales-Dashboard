@@ -38,10 +38,7 @@ The dataset contains:
 - Payment Methods
 - Cities
 - ---
-## Dashboard Preview
-
 ![Dashboard Preview](Images/Dashboard_Screenshot.png)
-
 ---
 ## Project Files
 | File Name | Description |
